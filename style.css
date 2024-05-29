@@ -80,11 +80,11 @@
     text-align: center;
 }
 
-
-.update {
+.update{
     text-align:center;
-    color:white;
-}
+    color: #fff;
+    font-size:28px;
+    padding-top:20px;
 
 
 @media screen and (max-width: 600px) {
